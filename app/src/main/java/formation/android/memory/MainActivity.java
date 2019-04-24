@@ -1,4 +1,4 @@
-package e.loicbarault.memory;
+package formation.android.memory;
 
 import android.app.Activity;
 import android.app.AlertDialog;

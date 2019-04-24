@@ -1,4 +1,4 @@
-package e.loicbarault.memory;
+package formation.android.memory;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("e.loicbarault.memory", appContext.getPackageName());
+        assertEquals("formation.android.memory", appContext.getPackageName());
     }
 }
