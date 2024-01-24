@@ -3,8 +3,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/icon_app"
-        android:label="Memory CESI Nantes"
+        android:icon="@drawable/icon_app_new"
+        android:label="Memory Game - Campus Fenelon La Rochelle"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.Light.NoTitleBar">

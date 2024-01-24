@@ -28,9 +28,9 @@ public class MainActivity extends Activity {
     public int DiscoveredOK[] = new int[16];
     public int PairDiscovered = 0;
 
-    public int[] ImageListe = {R.drawable.img1, R.drawable.img1, R.drawable.img2, R.drawable.img2, R.drawable.img3, R.drawable.img3,
-            R.drawable.img4, R.drawable.img4, R.drawable.img5, R.drawable.img5, R.drawable.img6, R.drawable.img6, R.drawable.img7,
-            R.drawable.img7, R.drawable.img8, R.drawable.img8};
+    public int[] ImageListe = {R.drawable.image1, R.drawable.image2, R.drawable.image3, R.drawable.image4, R.drawable.image5, R.drawable.image6,
+            R.drawable.image7, R.drawable.image7, R.drawable.image8, R.drawable.image1, R.drawable.image2, R.drawable.image3, R.drawable.image4, R.drawable.image5, R.drawable.image6,
+            R.drawable.image7, R.drawable.image7, R.drawable.image8};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
